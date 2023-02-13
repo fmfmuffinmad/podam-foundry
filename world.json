@@ -1,0 +1,25 @@
+{
+  "title": "test",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "test1",
+      "type": "Item",
+      "name": "test1",
+      "path": "packs/test1.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.7",
+  "id": "test",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  }
+}
