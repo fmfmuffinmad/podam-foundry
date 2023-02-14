@@ -1,0 +1,15 @@
+{
+  "title": "Pathfinder2 World",
+  "description": "<p>Pathfinder2 World</p>",
+  "version": "1.0.0",
+  "system": "pf2e",
+  "coreVersion": "10.286",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "4.2.1",
+  "id": "pathfinder2-world",
+  "compatibility": {
+    "verified": "10.286",
+    "minimum": "10"
+  }
+}
